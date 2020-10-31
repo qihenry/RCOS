@@ -2,11 +2,15 @@
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html
 
 //Search up syntax that was weird for me
+//What ? means
 https://www.typescriptlang.org/docs/handbook/advanced-types.html 
 https://www.geeksforgeeks.org/why-use-question-mark-in-typescript-variable/#:~:text=Question%20marks%20on%20TypeScript%20variable,value%20as%20undefined%20when%20unused.&text=Note%3A%20A%20required%20parameter%20cannot%20follow%20an%20optional%20parameter.
+//what does => do
 https://stackoverflow.com/questions/24900875/whats-the-meaning-of-an-arrow-formed-from-equals-greater-than-in-javas
 https://stackoverflow.com/questions/34274520/whats-the-meaning-of-in-typescript-fat-arrow
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+//What is super()
+https://www.typescriptlang.org/docs/handbook/classes.html
 
 //Go throught html syntax
 https://www.w3schools.com/html/
